@@ -4,4 +4,4 @@ applications:
   timeout: 300
   host: demohelloApp
   random-route: true
-  path: .\target\demo-0.0.1-SNAPSHOT.war
+  path: demo\target\demo-0.0.1-SNAPSHOT.war

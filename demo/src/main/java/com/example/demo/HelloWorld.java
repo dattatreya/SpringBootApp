@@ -7,7 +7,7 @@ public class HelloWorld {
 
 	@GetMapping("/helloWorld")
 	public String helloWorld() {
-		return "Hello World yoyo";
+		return "Hello World with automation";
 	}
 	
 }
